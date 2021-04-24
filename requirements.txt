@@ -9,3 +9,5 @@ sklearn
 voila
 ipykernel
 xlrd
+openpyxl
+pillow
