@@ -10,4 +10,4 @@ voila
 ipykernel
 xlrd
 openpyxl
-pillow
+
