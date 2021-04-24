@@ -1,9 +1,0 @@
-mpl_toolkits.mplot3d
-matplotlib.pyplot
-datetime
-pandas
-numpy
-scipy.stats
-ipywidgets
-IPython.display
-sklearn
