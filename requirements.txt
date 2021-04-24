@@ -2,9 +2,9 @@ matplotlib
 datetime
 pandas
 numpy
-scipy.stats
+scipy
 ipywidgets
-IPython.display
+IPython
 sklearn
 voila
 ipykernel
