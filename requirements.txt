@@ -1,5 +1,4 @@
-mpl_toolkits.mplot3d
-matplotlib.pyplot
+matplotlib
 datetime
 pandas
 numpy
